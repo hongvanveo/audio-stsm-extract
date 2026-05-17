@@ -1,0 +1,1 @@
+Thong diep STSM: bit duoc ma hoa Hamming 7-4 va nhung bang tinh chan le tong cua tung nhom 3 mau am thanh.
